@@ -18,3 +18,9 @@ Verkefnið uppfyllir grunnkröfur verkefnisins ásamt tveimur valverkefnum:
    cd vef1-2025-hopverkefni2
    npm install
    npm run dev
+    ```
+ 
+ ## Hýsing
+ 
+Verkefnið er hýst á Netlify:
+[https://vef1-2025-hopverkefni2.netlify.app](https://vef1-2025-hopverkefni2.netlify.app)
