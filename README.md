@@ -23,4 +23,4 @@ Verkefnið uppfyllir grunnkröfur verkefnisins ásamt tveimur valverkefnum:
  ## Hýsing
 
 Verkefnið er hýst á Netlify:
-[https://vef1-2025-hopverkefni2.netlify.app](https://tranquil-dasik-b3b5fb.netlify.app/)
+ [https://tranquil-dasik-b3b5fb.netlify.app](https://tranquil-dasik-b3b5fb.netlify.app)
